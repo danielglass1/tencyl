@@ -42,7 +42,7 @@ def get_penalty(period, pos_x, pos_y, rad, container_radius, beta=25):
     return lat_pen + fibre_pen + hole_pen
 
 
-def seperate_inputs(var_input, num_cyls, fibre_a, beta=25):
+def separate_inputs(var_input, num_cyls, fibre_a, beta=25):
     """Split a flat optimization tensor into period, positions, and positive radii.
 
     Args:
