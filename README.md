@@ -1,7 +1,6 @@
 # tencyl
 
-`tencyl` is a PyTorch based toolkit for modelling the scattering of cylindrical structures including
-clusters of cylinders, clusters embedded inside larger cylinders, and one-dimensional periodic cylinders lattices.
+`tencyl` is a PyTorch based toolkit for modelling the scattering of clusters of cylinders in free space, cluster of cylinders embedded inside larger cylinders, and one-dimensional periodic cylinders lattice. The model supports scattering for any angle of incidence.
 
 ## Requirements
 
